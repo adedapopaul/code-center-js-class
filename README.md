@@ -1,0 +1,1 @@
+This is an introduction to JavaScript class with the use of Git and it's essentials. Session at Code Center Lagos.
